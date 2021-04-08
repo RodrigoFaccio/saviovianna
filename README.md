@@ -20,7 +20,7 @@ I am a <b>computer technician</b>.
 Intention to study <b>computer science</b>.
 
 >
-<img width="20" src="https://www.flaticon.com/svg/vstatic/svg/372/372349.svg?token=exp=1617889809~hmac=e8a88f8482e37c34a4b7b2dbecf24fd0" />
+<img width="20" src="https://www.flaticon.com/svg/vstatic/svg/893/893220.svg?token=exp=1617893900~hmac=2a755699edddadc42d63583c45aa9998" />
 Enthusiastic about studying <b>Data Science</b>.
 
 <br/>
