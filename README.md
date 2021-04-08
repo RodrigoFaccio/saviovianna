@@ -4,7 +4,7 @@
 
 
 ### Welcome to my page!
-<img width="20" src="https://emojis.slackmojis.com/emojis/images/1454927900/294/feels.png?1454927900"/>  I am <b>17</b> years old.
+<img width="20" src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075"/>  I am <b>17</b> years old.
 
 
 <img width="20" src="https://emojis.slackmojis.com/emojis/images/1591808522/9339/brazil.png?1591808522"/>  I am from <b>Brazil</b>.
@@ -47,7 +47,7 @@
 
 ## My Development Stack
 
-**Application and Data**
+**Application**
 
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1568670853/6418/jupyter.png?1568670853" alt="Jupyter Notebook"/></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1450319444/32/python.png?1450319444" alt="Python"/></code>
