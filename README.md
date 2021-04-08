@@ -1,6 +1,6 @@
 # Hi, nice to meet you <img width="30" src="https://emojis.slackmojis.com/emojis/images/1597320283/10003/catjam.gif?1597320283" />
 
-<img align="right" width="40%" src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" />
+<img align="right" width="40%" src="https://media.giphy.com/media/grlkPWm6vpdRqZqMQV/giphy.gif" />
 
 
 ### Welcome to my page!
