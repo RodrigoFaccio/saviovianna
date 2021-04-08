@@ -1,22 +1,22 @@
 # Hi, nice to meet you <img width="30" src="https://emojis.slackmojis.com/emojis/images/1597320283/10003/catjam.gif?1597320283" />
 
-<img align="right" width="40%" src="https://media.giphy.com/media/WoLflWo2k1iZyeVYad/giphy.gif" />
+<img align="right" width="40%" src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" />
 
 
 ### Welcome to my page!
-<img width="20" src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075"/>  I am <b>17</b> years old.
+<img width="20" src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075"/>   I am <b>17</b> years old.
 
 
-<img width="20" src="https://emojis.slackmojis.com/emojis/images/1591808522/9339/brazil.png?1591808522"/>  I am from <b>Brazil</b>.
+<img width="20" src="https://emojis.slackmojis.com/emojis/images/1591808522/9339/brazil.png?1591808522"/>   I am from <b>Brazil</b>.
 
 
-<img width="20" src="https://emojis.slackmojis.com/emojis/images/1616977468/25208/laptop.gif?1616977468" />  I am a <b>computer technician</b>.
+<img width="20" src="https://emojis.slackmojis.com/emojis/images/1616977468/25208/laptop.gif?1616977468" />   I am a <b>computer technician</b>.
 
 
-<img width="20" src="https://emojis.slackmojis.com/emojis/images/1615940173/21457/books.gif?1615940173" />  Intention to study <b>computer science</b>.
+<img width="20" src="https://emojis.slackmojis.com/emojis/images/1615940173/21457/books.gif?1615940173" />   Intention to study <b>computer science</b>.
 
 
-<img width="20" src="https://www.flaticon.com/svg/vstatic/svg/893/893220.svg?token=exp=1617893900~hmac=2a755699edddadc42d63583c45aa9998" />  Enthusiastic about studying <b>Data Science</b>.
+<img width="20" src="https://www.flaticon.com/svg/vstatic/svg/893/893220.svg?token=exp=1617893900~hmac=2a755699edddadc42d63583c45aa9998" />   Enthusiastic about studying <b>Data Science</b>.
 
 
 <br/>
