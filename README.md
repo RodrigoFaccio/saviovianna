@@ -4,48 +4,43 @@
 
 
 ### Welcome to my page!
-<img width="20" src="https://www.flaticon.com/svg/vstatic/svg/388/388250.svg?token=exp=1617889230~hmac=1b8bee07233caee2a17bbed881c8a2ad"/>
-I am <b>17</b> years old.
+<img width="20" src="https://www.flaticon.com/svg/vstatic/svg/388/388250.svg?token=exp=1617889230~hmac=1b8bee07233caee2a17bbed881c8a2ad"/>I am <b>17</b> years old.
 
 >
-<img width="20" src="https://www.flaticon.com/svg/vstatic/svg/478/478995.svg?token=exp=1617888756~hmac=6cfdb6ec77ae91c56e506d49cc5a605c"/>
-I am from <b>Brazil</b>.
+<img width="20" src="https://www.flaticon.com/svg/vstatic/svg/478/478995.svg?token=exp=1617888756~hmac=6cfdb6ec77ae91c56e506d49cc5a605c"/>I am from <b>Brazil</b>.
 
 >
-<img width="20" src="https://www.flaticon.com/svg/vstatic/svg/413/413837.svg?token=exp=1617890262~hmac=4a58de236eea606ebd7672ba8b093461" />
-I am a <b>computer technician</b>.
+<img width="20" src="https://www.flaticon.com/svg/vstatic/svg/413/413837.svg?token=exp=1617890262~hmac=4a58de236eea606ebd7672ba8b093461" />I am a <b>computer technician</b>.
 
 >
-<img width="20" src="https://www.flaticon.com/svg/vstatic/svg/511/511870.svg?token=exp=1617890666~hmac=a465bfa768dcfb6a5f105ce3d66f16b7" />
-Intention to study <b>computer science</b>.
+<img width="20" src="https://www.flaticon.com/svg/vstatic/svg/511/511870.svg?token=exp=1617890666~hmac=a465bfa768dcfb6a5f105ce3d66f16b7" />Intention to study <b>computer science</b>.
 
 >
-<img width="20" src="https://www.flaticon.com/svg/vstatic/svg/893/893220.svg?token=exp=1617893900~hmac=2a755699edddadc42d63583c45aa9998" />
-Enthusiastic about studying <b>Data Science</b>.
+<img width="20" src="https://www.flaticon.com/svg/vstatic/svg/893/893220.svg?token=exp=1617893900~hmac=2a755699edddadc42d63583c45aa9998" />Enthusiastic about studying <b>Data Science</b>.
 
 <br/>
 
 ### Where to find me:
 
 <a href="https://www.linkedin.com/in/savio-vianna-217705201/">
-  <img alt="My linkedin" width="40" src="https://www.flaticon.com/svg/vstatic/svg/372/372399.svg?token=exp=1617891078~hmac=5629640c700fcce4f14c4c178fa783b3" />
+  <img alt="My linkedin" width="40" src="https://www.flaticon.com/svg/vstatic/svg/185/185964.svg?token=exp=1617894104~hmac=61cf077d9f66fafa1b6e920785b8ecf1" />
 </a>
 
 <a href="http://t.me/savio_DS">
-  <img alt="My Telegram" width="40" src="https://www.flaticon.com/svg/vstatic/svg/372/372410.svg?token=exp=1617891264~hmac=16d9de306ae7fe5e73b41de0d0ac3322" />
+  <img alt="My Telegram" width="40" src="https://www.flaticon.com/svg/vstatic/svg/185/185977.svg?token=exp=1617894099~hmac=aeabf58fa4a1da933604a3bdd92e7c50" />
 </a>
 
 <a href="mailto:savioviannads@gmail.com">
-  <img alt="My Contact" width="40" src="https://www.flaticon.com/svg/vstatic/svg/372/372392.svg?token=exp=1617891257~hmac=c104d3a49fdd78fd3719845f61a535ec" />
+  <img alt="My Contact" width="40" src="https://www.flaticon.com/svg/vstatic/svg/270/270021.svg?token=exp=1617894163~hmac=bed2b2b6db6e9d168e63abc83fa5e7cd" />
 </a>
 
 <a href="https://www.youtube.com/channel/UCd0__YGlMvo5nHm7GbYGenQ/featured">
-  <img alt="My Channel" width="40" src="https://www.flaticon.com/svg/vstatic/svg/372/372420.svg?token=exp=1617891257~hmac=16a7d3ce1eb234dbe167f11c5052a85d" />
+  <img alt="My Channel" width="40" src="https://www.flaticon.com/svg/vstatic/svg/185/185983.svg?token=exp=1617894072~hmac=5eb61188168297ead50f1f05658d2ad5" />
 </a>
 
-<code><a href="https://github.com/saviovianna?tab=repositories">
-  <img alt="My Repositories" width="40" src="https://www.flaticon.com/svg/vstatic/svg/372/372374.svg?token=exp=1617892166~hmac=ad94286eb899e88457312d7d49274ec7" />
-</a></code>
+<a href="https://github.com/saviovianna?tab=repositories">
+  <img alt="My Repositories" width="40" src="https://www.flaticon.com/svg/vstatic/svg/2932/2932852.svg?token=exp=1617894032~hmac=77bf3b85963f90613c18c8c1c32cb50b" />
+</a>
 
 <br/><br/>
 
