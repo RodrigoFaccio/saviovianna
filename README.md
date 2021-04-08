@@ -43,9 +43,9 @@ Enthusiastic about studying <b>Data Science</b>.
   <img alt="My Channel" width="40" src="https://www.flaticon.com/svg/vstatic/svg/372/372420.svg?token=exp=1617891257~hmac=16a7d3ce1eb234dbe167f11c5052a85d" />
 </a>
 
-<a href="https://github.com/saviovianna?tab=repositories">
+<code><a href="https://github.com/saviovianna?tab=repositories">
   <img alt="My Repositories" width="40" src="https://www.flaticon.com/svg/vstatic/svg/372/372374.svg?token=exp=1617892166~hmac=ad94286eb899e88457312d7d49274ec7" />
-</a>
+</a></code>
 
 <br/><br/>
 
