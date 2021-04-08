@@ -49,6 +49,7 @@
 
 **Application**
 
+<code><img height="32" src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab"/></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1568670853/6418/jupyter.png?1568670853" alt="Jupyter Notebook"/></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1450319444/32/python.png?1450319444" alt="Python"/></code>
 
